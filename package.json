@@ -1,7 +1,7 @@
 {
 3    "name": "Admission_Prediction",
 4    "version": "1.0.0",
-5    "description": "",
+5    "description": "Admission prediction app ",
 6    "scripts": {
 7        "build": "echo \"No build specified\" && exit 1",
 8        "test": "echo \"No test specified\" && exit 1",
@@ -11,7 +11,7 @@
 12        "type": "git",
 13        "url": "git+https://github.com/dkg0101/Admission_Prediction.git"
 14    },
-15    "author": "",
+15    "author": "Dhananjay G",
 16    "license": "ISC",
 17    "bugs": {
 18        "url": "https://github.com/dkg0101/Admission_Prediction/issues"
